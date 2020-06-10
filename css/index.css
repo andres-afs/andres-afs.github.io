@@ -1,0 +1,73 @@
+    * {
+        padding: 0px;
+        margin: 0px;
+    }
+    
+    #d-button-btn {
+        margin-right: 10px;
+    }
+    
+    #button-btn {
+        margin-left: 0px;
+        margin-right: 0px;
+        background-color: #700202;
+    }
+    
+    #img {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    
+    #logo {
+        background-color: #000000;
+    }
+    
+    #nosotros {
+        margin-top: 0px;
+    }
+    
+    #card-content {
+        margin: 50px;
+        margin-left: 20px;
+    }
+    
+    #contacto {
+        margin-top: 100px;
+        margin-top: 100px;
+        background-color: #d1d0d0;
+    }
+    
+    #servicios {
+        margin-top: 50px;
+        background-color: black;
+    }
+    
+    #servicios-d {
+        margin-top: 0px;
+        margin-left: 0px;
+        margin-right: 0px;
+        background-color: rgb(0, 0, 0);
+    }
+    
+    #h {
+        margin: 0px;
+        margin-right: 0px;
+        margin-left: 0px;
+        margin-top: 10px;
+    }
+    
+    #button-btn-end {
+        margin-left: 1000px;
+        background-color: yellowgreen;
+    }
+    
+    body {
+        display: flex;
+        min-height: 100vh;
+        flex-direction: column;
+        background-color: #fdfdfd;
+    }
+    
+    main {
+        flex: 1 0 auto;
+    }
