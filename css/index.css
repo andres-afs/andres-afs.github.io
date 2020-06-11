@@ -8,8 +8,12 @@
     }
     
     #button-btn {
-        margin-left: 0px;
-        margin-right: 0px;
+        margin-left: 10px;
+        margin-right: 10px;
+        background-color: #700202;
+    }
+    
+    #button-btn-d {
         background-color: #700202;
     }
     
@@ -18,21 +22,12 @@
         margin-right: 10px;
     }
     
-    #logo-h {
-        margin-left: 130px;
-    }
-    
     #logo {
-        background-color: #000000;
+        background-color: #2e0101;
     }
     
     #nosotros {
         margin-top: 0px;
-    }
-    
-    #card-content {
-        margin: 50px;
-        margin-left: 20px;
     }
     
     #contacto {
@@ -43,7 +38,7 @@
     
     #servicios {
         margin-top: 50px;
-        background-color: rgb(46, 45, 45);
+        background-color: #2e0101;
     }
     
     #servicios-d {
@@ -54,14 +49,15 @@
     
     #h {
         margin: 0px;
-        margin-right: 0px;
-        margin-left: 0px;
-        margin-top: 10px;
+        margin-right: 10px;
+        margin-left: 10px;
+        margin-top: 0px;
     }
     
     #button-btn-end {
-        margin-left: 1000px;
-        background-color: yellowgreen;
+        margin-left: 900px;
+        margin-right: 0px;
+        background-color: rgba(82, 5, 2, 0.89);
     }
     
     #plano {
@@ -72,7 +68,7 @@
         display: flex;
         min-height: 100vh;
         flex-direction: column;
-        background-color: #020202;
+        background-color: #ffffff;
     }
     
     main {
